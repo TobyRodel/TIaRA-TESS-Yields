@@ -1,6 +1,6 @@
 # TIaRA-TESS-Yields
 
-This repository contains machine readable tables of the results from [Rodel et al (2024)](https://arxiv.org/abs/2402.07800)
+This repository contains machine readable tables of the results from [Rodel et al (2024)](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftrack.smtpsendmail.com%2F9032119%2Fc%3Fp%3DS6ORnKLKpTofVkXG-xc1BoN-d4AKV87_QoKrUpftEQO4tmW5LX_zWhiFp-cHwJNLafRpQFn4TFvXStF5cdeoKFLSwRT-lMkx0q-xQGvut9ebpDV7TaxUAe5gUcbvlaPHwGum95-CN2xCLPQO10gCIdQzEB7Geqdjr_1b2pJ-ltOi13X5idYFfsrYeuKAD7gRIxOl05VDvLSpVJbAjOwwOUPPvy5mMR01gI99yU6EQJ-mhAswkJWIyi2y1Jc9Wcfov0oithSXr76EqEBd6wiP_0dVW-Brx6qrRmqsi9VLCuSGYVariN6bieO-X03dVDr11mlzRvQ_VIw0mY-1z7owhg%3D%3D&data=05%7C02%7Ctrodel01%40qub.ac.uk%7Cc4717f76a6a34f85825908dc3236263c%7Ceaab77eab4a549e3a1e8d6dd23a1f286%7C0%7C0%7C638440455350238607%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=aAVrs7z0cWsvsWGaUZeEIdAjeUvGlK9NI3MnkR3Hh0k%3D&reserved=0)
 
 The content and structure of these tables is described below. Please contact the authors if you have queries or difficulty using these files.
 
